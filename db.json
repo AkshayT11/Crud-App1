@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "name": "Kunal Pandya",
+      "email": "kunal@test.com",
+      "city": "Mumbai",
+      "pincode": 42154,
+      "phone": 1553551235,
+      "id": 1
+    },
+    {
+      "name": "mithun ",
+      "email": "mithun@test.com",
+      "city": "Delhi",
+      "pincode": 545452,
+      "phone": 7354581415,
+      "id": 2
+    },
+    {
+      "name": "A R Rehman",
+      "email": "rehman@test.com",
+      "city": "Chennai",
+      "pincode": 441254,
+      "phone": 8585895412,
+      "id": 3
+    },
+    {
+      "name": "Ajit Agarkar",
+      "email": "agarkar@testing.com",
+      "city": "Mumbai",
+      "pincode": 412555,
+      "phone": 7788554469,
+      "id": 4
+    },
+    {
+      "name": "Aidem Markaram",
+      "email": "aidem@ninja.com",
+      "city": "Durban",
+      "pincode": 5454,
+      "phone": 9824215413,
+      "id": 5
+    },
+    {
+      "name": "Akshay Kumar",
+      "email": "akkikumar@gmail.com",
+      "city": "Old Delhi",
+      "pincode": 564656,
+      "phone": 69459841396,
+      "id": 6
+    }
+  ]
+}

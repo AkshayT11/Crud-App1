@@ -1,0 +1,27 @@
+
+h2{
+    color: aliceblue;
+}
+
+.btn-close{
+    font-weight: 600;
+    /* color: rgb(239, 248, 239); */
+    font-size: 18px;
+    width: 33px;
+    border: none;
+    background-color: red;
+}
+
+.modal-body{
+    background-color: rgba(206, 228, 78, 0.6);
+}
+
+.form-group label{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.form-group input{
+    font-size: 16px;
+    font-weight: 500;
+}
